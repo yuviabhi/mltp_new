@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "fid": "check_gml.0", "id": 4231222, "highway": "primary", "oneway": "yes", "name": "广场西侧路", "lanes": null, "layer": null, "bridge": null, "public_transport": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.3894568, 39.9061898 ], [ 116.38946060000001, 39.9059947 ], [ 116.3896381, 39.9017362 ], [ 116.38964, 39.9016023 ], [ 116.3896382, 39.9014946 ], [ 116.3896784, 39.9009988 ], [ 116.38971650000001, 39.9005031 ], [ 116.3898158, 39.8987502 ] ] } },
+{ "type": "Feature", "properties": { "fid": "check_gml.1", "id": 4231223, "highway": "primary", "oneway": "yes", "name": "广场东侧路", "lanes": null, "layer": null, "bridge": null, "public_transport": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.3934744, 39.8988392 ], [ 116.39342480000001, 39.9002425 ], [ 116.3934198, 39.9003855 ], [ 116.3934129, 39.9005806 ], [ 116.3933574, 39.9015736 ], [ 116.393345, 39.9018366 ], [ 116.3932563, 39.9037225 ], [ 116.3931584, 39.9061173 ] ] } },
+{ "type": "Feature", "properties": { "fid": "check_gml.2", "id": 4263917, "highway": "primary", "oneway": "yes", "name": "复兴路", "lanes": null, "layer": null, "bridge": null, "public_transport": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.32515220000001, 39.9062496 ], [ 116.3240732, 39.9061598 ], [ 116.3236754, 39.9061365 ], [ 116.3232206, 39.9061352 ] ] } },
+{ "type": "Feature", "properties": { "fid": "check_gml.3", "id": 4263918, "highway": "tertiary", "oneway": null, "name": "兵部洼胡同", "lanes": null, "layer": null, "bridge": null, "public_transport": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.3817888, 39.8988597 ], [ 116.3818667, 39.8990002 ], [ 116.3818641, 39.8990651 ], [ 116.38183720000001, 39.8997556 ], [ 116.381798, 39.9002422 ], [ 116.3817558, 39.900629 ], [ 116.3817133, 39.9010691 ], [ 116.3816975, 39.9013118 ], [ 116.3816243, 39.902223 ], [ 116.3816724, 39.9024162 ] ] } },
+{ "type": "Feature", "properties": { "fid": "check_gml.46379", "id": 439335201, "highway": "service", "oneway": null, "name": "小院胡同", "lanes": null, "layer": null, "bridge": null, "public_transport": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.3651684, 39.9186281 ], [ 116.3644453, 39.9185911 ] ] } }
+]
+}
